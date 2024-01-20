@@ -1,0 +1,5 @@
+food=100
+movies=90
+gas=70
+car=600
+games=500
